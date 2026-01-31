@@ -1,10 +1,12 @@
 ## Hola, mi nombre es Randy Germosén 👋
 
-Soy estudiante de grado de ECT (Ingeniería en Ciencias de la Computación).
+Soy estudiante de grado de ECT (Ingeniería en Ciencias de la Computación). En:
+
+![pucmm_banner](https://pucmm.edu.do/_catalogs/masterpage/PUCMM-Pincipal/img/logo.png)
 
 Esta es mi cuenta de github educativa donde estarán todos los repositorios con fines educativos (valga la redundancia) para mis estudios avanzandos en la Pontificia Universidad Católica Madre y Maestra.
 
-Si estás buscando mi usuario de github personal, lo encontrarás en aquí: url[@zeik-dev](https://github.com/zeik-dev)
+Si estás buscando mi usuario de github personal, lo encontrarás en aquí:  [@zeik-dev](https://github.com/zeik-dev)
 
 <!--
 **randy-pucmm/randy-pucmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
