@@ -2,7 +2,7 @@
 
 Soy estudiante de grado de ECT (Ingeniería en Ciencias de la Computación) en la:
 
-![pucmm_banner](https://pucmm.edu.do/_catalogs/masterpage/PUCMM-Pincipal/img/logo.png)
+![pucmm_banner](https://campusvirtual.pucmm.edu.do/moodle/pluginfile.php/1/theme_remui/logo/1792783164/Logo%20PUCMM%20Letras%20Blancas%20%281%29.png)
 
 Esta es mi cuenta de github educativa donde estarán todos los repositorios con fines educativos (valga la redundancia) para mis estudios avanzandos en la Pontificia Universidad Católica Madre y Maestra.
 
